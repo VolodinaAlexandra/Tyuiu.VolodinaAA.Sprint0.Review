@@ -3,7 +3,7 @@ using System;
 using Tyuiu.VolodinaAA.Sprint0.TaskReview.V0.Lib;
 
 namespace Tyuiu.VolodinaAA.Sprint0.TaskReview.V0.Test
-{
+{  
     [TestClass]
     public class DataServiceTest
     {

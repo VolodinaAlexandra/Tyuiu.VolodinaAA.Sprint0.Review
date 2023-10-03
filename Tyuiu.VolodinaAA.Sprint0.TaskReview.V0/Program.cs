@@ -8,7 +8,7 @@ using Tyuiu.VolodinaAA.Sprint0.TaskReview.V0.Lib;
 namespace Tyuiu.VolodinaAA.Sprint0.TaskReview.V0
 {
     class Program
-    {
+    {  
         static void Main(string[] args)
         {
             Console.Title = "Спринт#0 |Выполнила: Володина А.А.|ПКТб-23-1";
